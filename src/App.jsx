@@ -347,7 +347,7 @@ function App() {
                 Horologe Atelier is an haute horlogerie<br />house of bold{' '}
                 <img className="glow-img" src="img/233.png" alt="watch detail" /> artisans that
                 <br />delivers the poetry of precision<br />with{' '}
-                <img className="glow-img" src="img/232.png" alt="heritage" /> heritage
+                <img className="glow-img" src="/img/232.png" alt="heritage" /> heritage
               </h1>
               <p>Every gear, every polish, every moon phase — forged by hand in our Geneva workshops.</p>
             </div>
